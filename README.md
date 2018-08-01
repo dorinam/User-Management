@@ -2,7 +2,7 @@
 
  
 
-![Main page](http://www.usermanagement.dorinamihai.tech/img/main.png)
+![Main page](http://www.usermanagement.dorinamihai.tech/assets/main.png)
 
 
 ##This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
